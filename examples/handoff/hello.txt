@@ -1,0 +1,1 @@
+This is a synthetic handoff fixture. Copy the directory and verify the manifest.
