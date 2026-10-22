@@ -1,0 +1,4 @@
+# Synthetic passing fixture; not proof of authentication.
+SERVICE_URL=https://example.invalid
+ACCESS_TOKEN=synthetic-demo-only
+OPTIONAL_LABEL=demo

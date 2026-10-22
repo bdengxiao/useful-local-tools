@@ -1,0 +1,4 @@
+# Synthetic failing fixture, not a working credential.
+SERVICE_URL=https://example.invalid
+ACCESS_TOKEN=changeme
+OPTIONAL_LABEL=
